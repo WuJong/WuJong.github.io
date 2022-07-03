@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Homework Here</title>
+		<link rel="stylesheet" href="forHomework.css">
+	</head>
+	<body>
+		<button class="button" onclick="download()">下载源代码</button>
+	</body>
+	<script>
+		function download(){
+			let a = document.createElement("a");
+			a.href = "./Win7 Style Builder详细教程.docx";
+			// a.download = "processor.java";
+			a.click();
+		}
+	</script>
+</html>

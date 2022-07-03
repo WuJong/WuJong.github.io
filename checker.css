@@ -1,0 +1,22 @@
+.body{
+	margin: 0 auto;
+	width: 0%;
+}
+.image{
+	border: 2px solid #999999;
+	height: 400;
+	width: 400;
+}
+.top{
+	float: left;
+	display: block;
+	padding-top: 70px;
+	text-decoration: underline;
+}
+.strong{
+	transform: skew(-15deg);
+	font-weight: 800;
+}
+.button{
+	
+}

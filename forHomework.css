@@ -1,0 +1,7 @@
+.button{
+	background: url("image/SmallLogo.png") repeat;
+	border-style: none;
+	display: block;
+	width: 176px;
+	height: 176px;
+}
